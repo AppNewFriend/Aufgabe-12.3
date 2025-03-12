@@ -7,4 +7,3 @@ void printNumber(int number) {
           printNumber(25);
             printNumber(42);
             }
-}
