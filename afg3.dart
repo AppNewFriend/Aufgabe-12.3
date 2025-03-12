@@ -11,4 +11,3 @@ void reverseInitials(String firstName, String lastName) {
             reverseInitials("Anna", "Schmidt");  
               reverseInitials("Lukas", "Meier");  
               }
-}
